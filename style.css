@@ -1,0 +1,101 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding:0}
+}
+
+.container {
+  width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+header {
+  background-color: aqua; /* light gray */
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+}
+
+.profile-picture{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 5px solid white;
+}
+
+.summary {
+  background-color: pink; /* light gray */
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.work-experience {
+  background-color: aqua; /* light gray */
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.education {
+  background-color: pink; /* light gray */
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.skills {
+  background-color: aqua; /* light gray */
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+footer {
+  background-color: pink; /* light gray */
+  border-top: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  clear: both;
+}
+```
+
+# Border Variations
+```
+.solid-border {
+  border: 1px solid black;
+}
+
+.dashed-border {
+  border: 1px dashed black;
+}
+
+.dotted-border {
+  border: 1px dotted black;
+}
+
+.double-border {
+  border: 5px double black;
+}
+```
+
+# Background Variations
+```
+.blue-background {
+  background-color: #ADD8E6; /* light blue */
+}
+
+.green-background {
+  background-color: #C6F4D6; /* light green */
+}
+
+.red-background {
+  background-color: #FFC5C5; /* light red */
+}
+
+.purple-background {
+  background-color: #C5C3C5; /* light purple */
+}
+```
